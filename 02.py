@@ -25,4 +25,4 @@ eletkor = input("Add meg hány éves vagy: ")
 print(eletkor)
 print(szotar["név:"], "kora: \n", eletkor, sep="_", end="\n")
 
-print("valami".center(__width=40, __fillchar="-"))
+print("valami".center(__width=40,__fillchar="-"))
